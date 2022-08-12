@@ -1,7 +1,13 @@
-import React from 'react';
+import React from 'react'
 
-const ElementoLista = () => {
-	return <div>ElementoLista</div>;
-};
+const 
+ = () => {
+	return (
+		<div>
 
-export default ElementoListas;
+		</div>
+	)
+}
+
+export default
+
