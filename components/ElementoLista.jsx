@@ -1,7 +1,6 @@
 import React from 'react'
 
-const 
- = () => {
+const ElementoLista = () => {
 	return (
 		<div>
 
@@ -9,5 +8,5 @@ const
 	)
 }
 
-export default
+export default ElementoLista
 
